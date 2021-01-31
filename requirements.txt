@@ -1,0 +1,4 @@
+Install time library
+Install pyauto gui library
+Install keyboard library
+Install cv2 library
